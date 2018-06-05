@@ -1,4 +1,4 @@
-<h1 style="color: #5e9ca0; text-align: center;">OpenExpoEurope'17</h1>
+<h1 style="color: #5e9ca0; text-align: center;">OpenExpoEurope'16</h1>
 <div class="gdlr-session-item-content-wrapper">
 <div class="gdlr-session-item-content-info">
 <div class="gdlr-session-info">
