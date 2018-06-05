@@ -1,7 +1,8 @@
+<br><br><br><br><br><br><br><br><br>
 <table>
 <tbody>	<tr>		<td>
-<h1 style="color: #5e9ca0; text-align: center;">OpenExpoEurope'16</h1>
-
+<h1 style="color: #5e9ca0; text-align: center;">OpenExpoEurope 2016</h1>
+<br><br><br>
 
 <div class="gdlr-session-item-content-wrapper">
 <div class="gdlr-session-item-content-info">
